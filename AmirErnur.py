@@ -1,5 +1,8 @@
 import telebot
-from telebot import types # кнопки Telegram
+from telebot import types
+
+
+
 
 bot = telebot.TeleBot('1461075081:AAE7qKOOWEH86BSxcGNEVEl04z5yWgibpRw')
 
