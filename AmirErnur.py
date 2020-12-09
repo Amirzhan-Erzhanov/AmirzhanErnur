@@ -4,7 +4,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('1461075081:AAE7qKOOWEH86BSxcGNEVEl04z5yWgibpRw')
+bot = telebot.TeleBot('')
 
 '''
 1 Создать 4 переменные:
